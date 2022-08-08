@@ -1,0 +1,26 @@
+.dog-container{
+    padding: 20px;
+    background-color: aqua;
+    margin-top: -5px;
+}
+.dog-container h2{
+    font-size: 40px;
+    /* need to add fonts */
+}
+.dog-container h4{
+    font-size: 30px;
+}
+.dog-image{
+    
+    border-radius: 30px;
+    text-align: center;
+    display: grid;
+    place-items: center;
+
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+}
+.dog-desc{
+    font-size: 20px;
+}
